@@ -1,4 +1,4 @@
-function letterCombinations(input_digit) {
+function letterCombinations(digits) {
   //Complete the function
 	 const digitToLetters = {
     '2': 'abc',
